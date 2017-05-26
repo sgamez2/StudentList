@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "30e3f72e674bf2869e9e9d1129551063"
+build_time: [549149735, 382963000]
+inputs:
+  "/Users/admin/git/StudentList/Sources/AppDelegate.swift": [549149533, 0]
+  "/Users/admin/git/StudentList/Sources/StudentCell.swift": [549149533, 0]
+  "/Users/admin/git/StudentList/Sources/StudentsCollectionViewController.swift": [549149533, 0]
