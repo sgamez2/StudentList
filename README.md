@@ -9,7 +9,7 @@ This is a simple app that displays a list of students names. It is used to teach
     ![Fork Button](.ReadmeImages/ForkButton.png)
 
 2. Clone your fork to your own machine using Tower, GitHub Desktop, or Terminal (your choice).
-3. In your local copy of the repo, create a new branch called "add-my-name".
+3. In your local copy of the repo, create a new branch called "add-my-name". (Optional)
 4. Open the StudentList Xcode project.
 5. Drag an image of yourself into the StudentImages group under Resources. The image name should be your first name (e.g. "Anna.jpg").
 
