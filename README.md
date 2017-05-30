@@ -1,6 +1,6 @@
 ## StudentList
 
-This is a simple app that displays a list of students names. It is used to teach GitHub pull requests.
+This is a simple app that displays a list of students names. It is used to teach basic git usage, including using GitHub pull requests.
 
 ## How To:
 
